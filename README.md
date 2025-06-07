@@ -34,7 +34,6 @@ california_house_price/
 ├── House.ipynb              # Main Jupyter Notebook
 ├── data/                    # (Optional) Data files
 ├── models/                  # Saved models (e.g. house_price_model.joblib)
-├── requirements.txt         # Python dependencies
 └── README.md                # Project description
 ```
 
@@ -49,9 +48,6 @@ california_house_price/
 
 2. Install required dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 3. Launch the Jupyter Notebook:
 
